@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testUKBeta" verbose="1">
+
+    <test name="TestsAPI">
+        <classes>
+            <class name="TestEndPoints" />
+        </classes>
+    </test>
+
+</suite>
